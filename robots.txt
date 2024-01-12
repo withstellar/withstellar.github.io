@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tongxinwong.github.io/sitemap.xml
+Sitemap: https://wangtxin.github.io/sitemap.xml
